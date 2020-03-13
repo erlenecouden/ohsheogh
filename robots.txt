@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eengoothu.winktoolkit.fr/sitemap.xml
